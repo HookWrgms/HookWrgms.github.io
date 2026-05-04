@@ -9,10 +9,6 @@ theme = 'hyde'
 
 [menu]
   [[menu.main]]
-    name = 'Home'
-    url = '/'
-    weight = 10
-  [[menu.main]]
     name = 'Posts'
     url = '/posts/'
-    weight = 20
+    weight = 10
