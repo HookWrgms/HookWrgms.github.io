@@ -1,0 +1,11 @@
+PENDING GIT PUBLISH - June 9, 2026
+
+New blog post created: content/posts/2026-06-09-harness-engineering-ai-coding.md
+
+To publish, run:
+  cd blog
+  git add content/posts/2026-06-09-harness-engineering-ai-coding.md
+  git commit -m "Add: Harness Engineering - The Real Differentiator in AI Coding Tools"
+  git push
+
+This will trigger GitHub Actions to deploy to https://hookwrgms.github.io
